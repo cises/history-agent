@@ -19,6 +19,7 @@ Dossier di ricerca sulle origini del **Bollettino Ufficiale del Ministero della 
 | `02-primi-fascicoli/` | Censimento delle digitalizzazioni dei primi volumi; trascrizioni di frontespizi, avvertenze, programma editoriale |
 | `03-atti-parlamentari/` | Discussioni parlamentari, bilanci della Pubblica Istruzione 1874–1877, relazioni ministeriali |
 | `04-contesto-e-repertori/` | Cronologia seriale (cataloghi SBN/ACNP), precedenti (Giornale del Ministero della P.I.) e modelli stranieri, letteratura secondaria, piste archivistiche (ACS) |
+| `05-letteratura-secondaria/` | Campagna di approfondimento sulla letteratura secondaria: riviste di storia dell'educazione, repertori, studi su Bonghi, BUMPI come fonte, storia dell'amministrazione |
 
 ## Convenzioni
 

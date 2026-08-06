@@ -35,6 +35,17 @@
 - **Biblioteca del Senato**: raccolta a stampa completa e repertorio 2025 dei bollettini ministeriali; Biblioteca Centrale Giuridica.
 - **Archivio storico Università di Torino**: ricezione periferica documentata del Bollettino.
 
+## 3-bis. Aggiornamento: campagna sulla letteratura secondaria (6 agosto 2026)
+
+Cinque ricognizioni dedicate (cartella `05-letteratura-secondaria/`, sintesi in `00-sintesi.md`) hanno stabilito:
+
+- **Lacuna storiografica confermata [D]**: nessuno studio dedicato al BUMPI esiste; la testata è ovunque usata come fonte, mai studiata. La voce «Bollettino» dell'Enciclopedia Italiana (1930) ignora perfino il primato del BUMPI, attribuendolo a Grazia e Giustizia (1880).
+- **Primato [D]**: dalla cronologia comparata dei bollettini ministeriali (repertorio Biblioteca del Senato 2025 e cataloghi), il BUMPI (15 nov. 1874) è il **primo bollettino ufficiale di un ministero civile italiano**, ~5 anni prima dell'ondata 1879–1902; solo la Guerra lo precede, per tradizione militare sabauda (1831–33).
+- **Il «pacchetto» bonghiano del novembre 1874 [D/H]**: il R.D. istitutivo del Museo d'istruzione e di educazione porta la stessa data del fascicolo I (15 novembre 1874); segue la circolare sugli annuari scolastici (20 novembre) e il Giornale del Museo (1875): il Bollettino appare parte di una strategia organica di documentazione scolastica.
+- **Funzione del genere [D]**: i bollettini ministeriali pubblicavano atti «spesso non pubblicati in Gazzetta Ufficiale» (MinervaWeb/Senato) — chiave interpretativa per il rapporto BUMPI/GU.
+- **Conferme incidentali** dagli schemi di citazione: mensile fino al 1887, settimanale con ~52 fascicoli in due volumi semestrali, rubrica statistica scuole medie anni '90–1911, supplementi.
+- **Nuovi materiali nel Drive dell'utente**: censite le annate possedute (vol. I 1874-75 e quasi tutta la serie fino al 1942; inventario in `02-primi-fascicoli/04-inventario-drive-utente.md`); l'estrazione OCR dal vol. I non è riuscita in questo ambiente (scansioni senza strato di testo, limiti del connettore: verbale in `02-primi-fascicoli/03-trascrizioni-vol-I-1874-75.md`) — pista rinviata su indicazione dell'utente.
+
 ## 4. Nota metodologica
 
 Le quattro ricognizioni sono state condotte in un ambiente il cui proxy di rete **blocca l'accesso diretto** a archive.org, Google Books, HathiTrust, OPAC SBN, storia.camera.it, senato.it, gazzettaufficiale.it ecc. (solo il motore di ricerca era accessibile). Tutti i dati provengono quindi da record e snippet indicizzati, sempre con URL registrata; **nessuna fonte primaria è stata ancora trascritta verbatim**. I file `02-primi-fascicoli/02-trascrizioni-da-acquisire.md`, `01-atti-normativi/03-piste-fonti-primarie.md` e le liste PDF dei file parlamentari contengono i bersagli pronti (con URL) per chiudere i punti aperti da una rete non filtrata.
