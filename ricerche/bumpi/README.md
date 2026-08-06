@@ -12,8 +12,9 @@ Dossier di ricerca sulle origini del **Bollettino Ufficiale del Ministero della 
 
 ## Struttura della cartella
 
-| Cartella | Contenuto |
+| Cartella / file | Contenuto |
 |---|---|
+| `00-SINTESI-GENERALE.md` | Sintesi complessiva: cosa è stabilito, cosa resta aperto e dove cercarlo |
 | `01-atti-normativi/` | Decreti, circolari e atti istitutivi (Gazzetta Ufficiale, Raccolta ufficiale, Collezione celerifera) |
 | `02-primi-fascicoli/` | Censimento delle digitalizzazioni dei primi volumi; trascrizioni di frontespizi, avvertenze, programma editoriale |
 | `03-atti-parlamentari/` | Discussioni parlamentari, bilanci della Pubblica Istruzione 1874–1877, relazioni ministeriali |
