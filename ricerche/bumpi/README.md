@@ -20,6 +20,8 @@ Dossier di ricerca sulle origini del **Bollettino Ufficiale del Ministero della 
 | `03-atti-parlamentari/` | Discussioni parlamentari, bilanci della Pubblica Istruzione 1874–1877, relazioni ministeriali |
 | `04-contesto-e-repertori/` | Cronologia seriale (cataloghi SBN/ACNP), precedenti (Giornale del Ministero della P.I.) e modelli stranieri, letteratura secondaria, piste archivistiche (ACS) |
 | `05-letteratura-secondaria/` | Campagna di approfondimento sulla letteratura secondaria: riviste di storia dell'educazione, repertori, studi su Bonghi, BUMPI come fonte, storia dell'amministrazione |
+| `06-testi-estratti/` | Testi OCR estratti dai volumi BUMPI del Drive dell'utente (18 volumi, 1892–1942) con indice e spogli tematici |
+| `07-archivi-digitali/` | Censimento di archivi e piattaforme digitali: carte Bonghi (ASNa, Lucera), fondi istituzionali (ACS, Camera, Senato, provveditorati), emeroteche per la ricezione |
 
 ## Convenzioni
 
