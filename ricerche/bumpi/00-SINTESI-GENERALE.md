@@ -46,6 +46,18 @@ Cinque ricognizioni dedicate (cartella `05-letteratura-secondaria/`, sintesi in 
 - **Conferme incidentali** dagli schemi di citazione: mensile fino al 1887, settimanale con ~52 fascicoli in due volumi semestrali, rubrica statistica scuole medie anni '90–1911, supplementi.
 - **Nuovi materiali nel Drive dell'utente**: censite le annate possedute (vol. I 1874-75 e quasi tutta la serie fino al 1942; inventario in `02-primi-fascicoli/04-inventario-drive-utente.md`); l'estrazione OCR dal vol. I non è riuscita in questo ambiente (scansioni senza strato di testo, limiti del connettore: verbale in `02-primi-fascicoli/03-trascrizioni-vol-I-1874-75.md`) — pista rinviata su indicazione dell'utente.
 
+## 3-ter. Scavo diretto nei testi del Bollettino (Drive, 6 agosto 2026)
+
+Diciotto volumi del Drive dell'utente (nucleo 1892–1900, più 1915–1942 a campione) hanno strato OCR: testi estratti in `06-testi-estratti/` (~5,25 M caratteri), spogli in `01-primi-spogli.md` e `02-spoglio-sistematico.md`. Acquisizioni [D]:
+
+- **Valore legale**: «I documenti pubblicati nella parte ufficiale di questo Bollettino hanno forza di partecipazione **esecutiva** [1892; **ufficiale** dal 1894] per tutti i funzionari e gli Istituti dipendenti dal Ministero» — la pubblicazione sostituiva la notifica individuale degli atti. Formula soppressa tra il 1900 e il 1915; la funzione sopravvive in norme puntuali (regolamento concorsi 1927, art. 60: la pubblicazione nel BU vale convocazione con decadenza).
+- **Distribuzione**: invio d'ufficio a istituti e autorità scolastiche, poi «tenuti in debito» dell'associazione (abbonamento di fatto obbligatorio); associazione annua L. 10 (1892–1900) → L. 30 (1924–27) → L. 68 (1932) → L. 63 (1938–40); fascicolo sciolto 50 cent. **Tiratura 1936: 7.309 copie** (colophon).
+- **Gestione**: «Direzione del Bollettino ufficiale» + «Amministrazione» interne al Ministero (1892–96) → Economato (dal 1897) → Provveditorato Generale dello Stato (1924–27) → Istituto Poligrafico dello Stato (1932–42).
+- **Periodicità settimanale**: «ESCE IL MERCOLEDÌ» (1892) → «ESCE IL GIOVEDÌ» (1894–1915) → martedì (1936–42); dal 1924 due serie separate con abbonamenti distinti.
+- **Autodatazione**: il blocco tariffario 1892 offre l'abbonamento «dal 1° agosto 1891 (cioè dal principio della serie nuova)» — unico autoriferimento esplicito alla propria storia; la numerazione d'annata conta però ininterrottamente dal 1874 fino alla fine (69° nel 1942).
+- **Rubrica statistica** sulle scuole medie: continuità 1894–1900, retta da circolari pubblicate nello stesso Bollettino.
+- Dagli snippet (in `01-atti-normativi/04-snippet-avvertenza-1874.md`): il R.D. del Museo d'istruzione coevo al fascicolo I è il **n. 2215 del 15 novembre 1874** (proponenti Bonghi e Finali); l'«Avvertenza» del 1874 resta irrecuperabile per questa via. Pista tecnica per la prossima sessione: l'API Google Books (`www.googleapis.com`) è l'unico host che attraversa il proxy (oggi in quota esaurita).
+
 ## 4. Nota metodologica
 
 Le quattro ricognizioni sono state condotte in un ambiente il cui proxy di rete **blocca l'accesso diretto** a archive.org, Google Books, HathiTrust, OPAC SBN, storia.camera.it, senato.it, gazzettaufficiale.it ecc. (solo il motore di ricerca era accessibile). Tutti i dati provengono quindi da record e snippet indicizzati, sempre con URL registrata; **nessuna fonte primaria è stata ancora trascritta verbatim**. I file `02-primi-fascicoli/02-trascrizioni-da-acquisire.md`, `01-atti-normativi/03-piste-fonti-primarie.md` e le liste PDF dei file parlamentari contengono i bersagli pronti (con URL) per chiudere i punti aperti da una rete non filtrata.
